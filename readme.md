@@ -77,4 +77,9 @@ Example output:
 
 ---
 
-## 🗂️ Project Structure
+## 🧰 Technologies Used
+
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Scikit-learn
